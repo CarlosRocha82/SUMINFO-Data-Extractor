@@ -1,0 +1,5 @@
+{
+  "name": "SUMINFO Data Extractor",
+  "description": "Ferramenta avançada para extração e processamento de ocorrências policiais de arquivos PDF do sistema SUMINFO, com geração automatizada de relatórios formatados.",
+  "requestFramePermissions": []
+}
